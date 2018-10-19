@@ -1,5 +1,4 @@
 # FIT2097_A2
-FIT2097 A2
 
 WASD to move
 Space to jump
