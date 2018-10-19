@@ -286,11 +286,9 @@ bool AFIT2097_A2Character::Trace(
 	// (remove these lines to remove the debug - or better create a debug switch!)
 	const FName TraceTag("MyTraceTag");
 
-	DrawDebugLine(GetWorld(), Start, End, FColor::Green, true, 2.0f, 2, 2.0f);
-
 	// World->DebugDrawTraceTag = TraceTag;
 	TraceParams.TraceTag = TraceTag;
-
+	DrawDebugLine(GetWorld(), Start, End, FColor::Green, true, 2.0f, 2, 2.0f);
 
 	// Force clear the HitData which contains our results
 	HitOut = FHitResult(ForceInit);
