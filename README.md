@@ -14,7 +14,9 @@ Stage 2
 3. First player must now exit the first room and interact with the remote access at the end of the hall way to win.
 
 GitHub link: https://github.com/scarletraptor/FIT2097_A2
+
 Google link: https://drive.google.com/file/d/1p9_RE81rKawZNkGjJ4ZYWsgzOqI2KwQM/view?usp=sharing
+
 Video link: https://www.youtube.com/watch?v=x6Yw9-Gjbio
 
 Discussion of the video is in the description itself.
